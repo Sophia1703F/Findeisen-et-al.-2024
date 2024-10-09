@@ -1,5 +1,4 @@
-**Supplementary data for Findeisen et al. 2024 - Silicate rock powder application: perspectives for the use as buffer restoration measure in acidified heathlands
-**
+**Supplementary data for Findeisen et al. 2024 - Silicate rock powder application: perspectives for the use as buffer restoration measure in acidified heathlands**
 **Corresponding author: sophia.findeisen@uantwerpen.be**
 	
 The file "2020soilchemheathland.txt" contains soil chemistry data	  
